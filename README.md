@@ -18,6 +18,7 @@ The experiments include:
 
 ## Dataset
 **ISIC 2018 Task 1 — Skin Lesion Segmentation**
+
 The dataset contains **2,595 images**, with a separate test set of **390 images** used for final evaluation.
 
 ---
